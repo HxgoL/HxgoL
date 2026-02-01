@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Hugo
 
-<!--
-**HxgoL/HxgoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am
+An engineering student who learns by building. I like understanding how things work and turning that into practical projects.
 
-Here are some ideas to get you started:
+## What I do
+I’m currently studying in engineering school and working on personal projects alongside it.  
+➡️ Feel free to check the repositories already available on my profile and explore the READMEs for details.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Software development  
+- UI / user experience  
+- Low-level computing (computer architecture, logic)
+- IoT
+- Robots
+- IA
+
+## Get in touch
+- Email: legehugo@gmail.com
+- LinkedIn: www.linkedin.com/in/hugo-lege
+
