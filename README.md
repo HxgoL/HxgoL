@@ -18,4 +18,5 @@ I’m currently studying in engineering school and working on personal projects 
 ## Get in touch
 - Email: legehugo@gmail.com
 - LinkedIn: www.linkedin.com/in/hugo-lege
+- PorteFolio: https://hxgol.github.io/PorteFolio.github.io/
 
